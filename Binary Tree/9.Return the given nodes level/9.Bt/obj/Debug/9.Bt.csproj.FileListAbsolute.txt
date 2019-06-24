@@ -1,0 +1,7 @@
+C:\Users\engin\source\repos\9.Bt\9.Bt\bin\Debug\9.Bt.exe.config
+C:\Users\engin\source\repos\9.Bt\9.Bt\bin\Debug\9.Bt.exe
+C:\Users\engin\source\repos\9.Bt\9.Bt\bin\Debug\9.Bt.pdb
+C:\Users\engin\source\repos\9.Bt\9.Bt\obj\Debug\9.Bt.csprojAssemblyReference.cache
+C:\Users\engin\source\repos\9.Bt\9.Bt\obj\Debug\9.Bt.csproj.CoreCompileInputs.cache
+C:\Users\engin\source\repos\9.Bt\9.Bt\obj\Debug\9.Bt.exe
+C:\Users\engin\source\repos\9.Bt\9.Bt\obj\Debug\9.Bt.pdb

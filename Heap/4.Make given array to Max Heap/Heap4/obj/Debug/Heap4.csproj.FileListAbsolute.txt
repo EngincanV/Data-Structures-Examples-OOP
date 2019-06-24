@@ -1,0 +1,7 @@
+C:\Users\engin\source\repos\Heap4\Heap4\bin\Debug\Heap4.exe.config
+C:\Users\engin\source\repos\Heap4\Heap4\bin\Debug\Heap4.exe
+C:\Users\engin\source\repos\Heap4\Heap4\bin\Debug\Heap4.pdb
+C:\Users\engin\source\repos\Heap4\Heap4\obj\Debug\Heap4.csprojAssemblyReference.cache
+C:\Users\engin\source\repos\Heap4\Heap4\obj\Debug\Heap4.csproj.CoreCompileInputs.cache
+C:\Users\engin\source\repos\Heap4\Heap4\obj\Debug\Heap4.exe
+C:\Users\engin\source\repos\Heap4\Heap4\obj\Debug\Heap4.pdb

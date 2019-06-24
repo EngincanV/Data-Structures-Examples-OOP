@@ -1,0 +1,25 @@
+C:\Users\engin\source\repos\Heap6\Heap6\obj\Debug\Heap6.csprojAssemblyReference.cache
+C:\Users\engin\source\repos\Heap6\Heap6\obj\Debug\Heap6.csproj.CoreCompileInputs.cache
+C:\Users\engin\source\repos\Heap6\Heap6\bin\Debug\Heap6.exe.config
+C:\Users\engin\source\repos\Heap6\Heap6\bin\Debug\Heap6.exe
+C:\Users\engin\source\repos\Heap6\Heap6\bin\Debug\Heap6.pdb
+C:\Users\engin\source\repos\Heap6\Heap6\obj\Debug\Heap6.exe
+C:\Users\engin\source\repos\Heap6\Heap6\obj\Debug\Heap6.pdb
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Heap Soruları\6.Max heap in min elemanını yaz\Heap6\bin\Debug\Heap6.exe.config
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Heap Soruları\6.Max heap in min elemanını yaz\Heap6\bin\Debug\Heap6.exe
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Heap Soruları\6.Max heap in min elemanını yaz\Heap6\bin\Debug\Heap6.pdb
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Heap Soruları\6.Max heap in min elemanını yaz\Heap6\obj\Debug\Heap6.csprojAssemblyReference.cache
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Heap Soruları\6.Max heap in min elemanını yaz\Heap6\obj\Debug\Heap6.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Heap Soruları\6.Max heap in min elemanını yaz\Heap6\obj\Debug\Heap6.exe
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Heap Soruları\6.Max heap in min elemanını yaz\Heap6\obj\Debug\Heap6.pdb
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Heap Soruları\6.Max heap in min ve max elemanını yaz\Heap6\bin\Debug\Heap6.exe.config
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Heap Soruları\6.Max heap in min ve max elemanını yaz\Heap6\bin\Debug\Heap6.exe
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Heap Soruları\6.Max heap in min ve max elemanını yaz\Heap6\bin\Debug\Heap6.pdb
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Heap Soruları\6.Max heap in min ve max elemanını yaz\Heap6\obj\Debug\Heap6.csprojAssemblyReference.cache
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Heap Soruları\6.Max heap in min ve max elemanını yaz\Heap6\obj\Debug\Heap6.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Heap Soruları\6.Max heap in min ve max elemanını yaz\Heap6\obj\Debug\Heap6.exe
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Heap Soruları\6.Max heap in min ve max elemanını yaz\Heap6\obj\Debug\Heap6.pdb
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Data Structers C#\Heap\5.Print Min value of Max Heap\Heap6\obj\Debug\Heap6.csprojAssemblyReference.cache
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Data Structers C#\Heap\5.Print Min value of Max Heap\Heap6\obj\Debug\Heap6.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Data Structers C#\Heap\5.Print Min value of Max Heap\Heap6\obj\Debug\Heap6.exe
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Data Structers C#\Heap\5.Print Min value of Max Heap\Heap6\obj\Debug\Heap6.pdb

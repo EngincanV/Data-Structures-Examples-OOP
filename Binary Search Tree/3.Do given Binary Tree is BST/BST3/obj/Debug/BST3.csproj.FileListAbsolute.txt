@@ -1,0 +1,14 @@
+C:\Users\engin\source\repos\BST3\BST3\bin\Debug\BST3.exe.config
+C:\Users\engin\source\repos\BST3\BST3\bin\Debug\BST3.exe
+C:\Users\engin\source\repos\BST3\BST3\bin\Debug\BST3.pdb
+C:\Users\engin\source\repos\BST3\BST3\obj\Debug\BST3.csprojAssemblyReference.cache
+C:\Users\engin\source\repos\BST3\BST3\obj\Debug\BST3.csproj.CoreCompileInputs.cache
+C:\Users\engin\source\repos\BST3\BST3\obj\Debug\BST3.exe
+C:\Users\engin\source\repos\BST3\BST3\obj\Debug\BST3.pdb
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Binary Search Tree\3.Girilen Binary Tree BST mi\BST3\bin\Debug\BST3.exe.config
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Binary Search Tree\3.Girilen Binary Tree BST mi\BST3\bin\Debug\BST3.exe
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Binary Search Tree\3.Girilen Binary Tree BST mi\BST3\bin\Debug\BST3.pdb
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Binary Search Tree\3.Girilen Binary Tree BST mi\BST3\obj\Debug\BST3.csprojAssemblyReference.cache
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Binary Search Tree\3.Girilen Binary Tree BST mi\BST3\obj\Debug\BST3.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Binary Search Tree\3.Girilen Binary Tree BST mi\BST3\obj\Debug\BST3.exe
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Binary Search Tree\3.Girilen Binary Tree BST mi\BST3\obj\Debug\BST3.pdb

@@ -1,0 +1,7 @@
+C:\Users\engin\source\repos\HEAP3\HEAP3\bin\Debug\HEAP3.exe.config
+C:\Users\engin\source\repos\HEAP3\HEAP3\bin\Debug\HEAP3.exe
+C:\Users\engin\source\repos\HEAP3\HEAP3\bin\Debug\HEAP3.pdb
+C:\Users\engin\source\repos\HEAP3\HEAP3\obj\Debug\HEAP3.csprojAssemblyReference.cache
+C:\Users\engin\source\repos\HEAP3\HEAP3\obj\Debug\HEAP3.csproj.CoreCompileInputs.cache
+C:\Users\engin\source\repos\HEAP3\HEAP3\obj\Debug\HEAP3.exe
+C:\Users\engin\source\repos\HEAP3\HEAP3\obj\Debug\HEAP3.pdb

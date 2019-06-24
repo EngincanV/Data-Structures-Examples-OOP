@@ -1,0 +1,7 @@
+C:\Users\engin\source\repos\3.BinaryTree\3.BinaryTree\bin\Debug\3.BinaryTree.exe.config
+C:\Users\engin\source\repos\3.BinaryTree\3.BinaryTree\bin\Debug\3.BinaryTree.exe
+C:\Users\engin\source\repos\3.BinaryTree\3.BinaryTree\bin\Debug\3.BinaryTree.pdb
+C:\Users\engin\source\repos\3.BinaryTree\3.BinaryTree\obj\Debug\3.BinaryTree.csprojAssemblyReference.cache
+C:\Users\engin\source\repos\3.BinaryTree\3.BinaryTree\obj\Debug\3.BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\engin\source\repos\3.BinaryTree\3.BinaryTree\obj\Debug\3.BinaryTree.exe
+C:\Users\engin\source\repos\3.BinaryTree\3.BinaryTree\obj\Debug\3.BinaryTree.pdb

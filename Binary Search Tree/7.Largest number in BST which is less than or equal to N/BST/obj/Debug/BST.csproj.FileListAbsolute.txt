@@ -1,0 +1,14 @@
+C:\Users\engin\source\repos\BST\BST\bin\Debug\BST.exe.config
+C:\Users\engin\source\repos\BST\BST\bin\Debug\BST.exe
+C:\Users\engin\source\repos\BST\BST\bin\Debug\BST.pdb
+C:\Users\engin\source\repos\BST\BST\obj\Debug\BST.csprojAssemblyReference.cache
+C:\Users\engin\source\repos\BST\BST\obj\Debug\BST.csproj.CoreCompileInputs.cache
+C:\Users\engin\source\repos\BST\BST\obj\Debug\BST.exe
+C:\Users\engin\source\repos\BST\BST\obj\Debug\BST.pdb
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Binary Search Tree\8.Largest number in BST which is less than or equal to N\BST\bin\Debug\BST.exe.config
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Binary Search Tree\8.Largest number in BST which is less than or equal to N\BST\bin\Debug\BST.exe
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Binary Search Tree\8.Largest number in BST which is less than or equal to N\BST\bin\Debug\BST.pdb
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Binary Search Tree\8.Largest number in BST which is less than or equal to N\BST\obj\Debug\BST.csprojAssemblyReference.cache
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Binary Search Tree\8.Largest number in BST which is less than or equal to N\BST\obj\Debug\BST.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Binary Search Tree\8.Largest number in BST which is less than or equal to N\BST\obj\Debug\BST.exe
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Binary Search Tree\8.Largest number in BST which is less than or equal to N\BST\obj\Debug\BST.pdb

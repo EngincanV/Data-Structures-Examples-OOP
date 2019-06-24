@@ -1,0 +1,7 @@
+C:\Users\engin\source\repos\1.BinaryTree(ArrayImplementation)\1.BinaryTree(ArrayImplementation)\bin\Debug\1.BinaryTree(ArrayImplementation).exe.config
+C:\Users\engin\source\repos\1.BinaryTree(ArrayImplementation)\1.BinaryTree(ArrayImplementation)\bin\Debug\1.BinaryTree(ArrayImplementation).exe
+C:\Users\engin\source\repos\1.BinaryTree(ArrayImplementation)\1.BinaryTree(ArrayImplementation)\bin\Debug\1.BinaryTree(ArrayImplementation).pdb
+C:\Users\engin\source\repos\1.BinaryTree(ArrayImplementation)\1.BinaryTree(ArrayImplementation)\obj\Debug\1.BinaryTree(ArrayImplementation).csprojAssemblyReference.cache
+C:\Users\engin\source\repos\1.BinaryTree(ArrayImplementation)\1.BinaryTree(ArrayImplementation)\obj\Debug\1.BinaryTree(ArrayImplementation).csproj.CoreCompileInputs.cache
+C:\Users\engin\source\repos\1.BinaryTree(ArrayImplementation)\1.BinaryTree(ArrayImplementation)\obj\Debug\1.BinaryTree(ArrayImplementation).exe
+C:\Users\engin\source\repos\1.BinaryTree(ArrayImplementation)\1.BinaryTree(ArrayImplementation)\obj\Debug\1.BinaryTree(ArrayImplementation).pdb

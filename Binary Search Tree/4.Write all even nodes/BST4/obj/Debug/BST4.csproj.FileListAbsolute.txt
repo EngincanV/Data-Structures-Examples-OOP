@@ -1,0 +1,14 @@
+C:\Users\engin\source\repos\BST4\BST4\bin\Debug\BST4.exe.config
+C:\Users\engin\source\repos\BST4\BST4\bin\Debug\BST4.exe
+C:\Users\engin\source\repos\BST4\BST4\bin\Debug\BST4.pdb
+C:\Users\engin\source\repos\BST4\BST4\obj\Debug\BST4.csprojAssemblyReference.cache
+C:\Users\engin\source\repos\BST4\BST4\obj\Debug\BST4.csproj.CoreCompileInputs.cache
+C:\Users\engin\source\repos\BST4\BST4\obj\Debug\BST4.exe
+C:\Users\engin\source\repos\BST4\BST4\obj\Debug\BST4.pdb
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Binary Search Tree\4.BSTdeki bütün çift sayıları yazdır\BST4\bin\Debug\BST4.exe.config
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Binary Search Tree\4.BSTdeki bütün çift sayıları yazdır\BST4\bin\Debug\BST4.exe
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Binary Search Tree\4.BSTdeki bütün çift sayıları yazdır\BST4\bin\Debug\BST4.pdb
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Binary Search Tree\4.BSTdeki bütün çift sayıları yazdır\BST4\obj\Debug\BST4.csprojAssemblyReference.cache
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Binary Search Tree\4.BSTdeki bütün çift sayıları yazdır\BST4\obj\Debug\BST4.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Binary Search Tree\4.BSTdeki bütün çift sayıları yazdır\BST4\obj\Debug\BST4.exe
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Binary Search Tree\4.BSTdeki bütün çift sayıları yazdır\BST4\obj\Debug\BST4.pdb

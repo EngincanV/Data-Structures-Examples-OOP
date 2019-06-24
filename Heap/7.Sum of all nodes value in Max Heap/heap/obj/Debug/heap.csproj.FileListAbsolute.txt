@@ -1,0 +1,14 @@
+C:\Users\engin\source\repos\heap\heap\bin\Debug\heap.exe.config
+C:\Users\engin\source\repos\heap\heap\bin\Debug\heap.exe
+C:\Users\engin\source\repos\heap\heap\bin\Debug\heap.pdb
+C:\Users\engin\source\repos\heap\heap\obj\Debug\heap.csprojAssemblyReference.cache
+C:\Users\engin\source\repos\heap\heap\obj\Debug\heap.csproj.CoreCompileInputs.cache
+C:\Users\engin\source\repos\heap\heap\obj\Debug\heap.exe
+C:\Users\engin\source\repos\heap\heap\obj\Debug\heap.pdb
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Data Structers C#\Heap\7.Sum of all nodes value in Max Heap\heap\bin\Debug\heap.exe.config
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Data Structers C#\Heap\7.Sum of all nodes value in Max Heap\heap\bin\Debug\heap.exe
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Data Structers C#\Heap\7.Sum of all nodes value in Max Heap\heap\bin\Debug\heap.pdb
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Data Structers C#\Heap\7.Sum of all nodes value in Max Heap\heap\obj\Debug\heap.csprojAssemblyReference.cache
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Data Structers C#\Heap\7.Sum of all nodes value in Max Heap\heap\obj\Debug\heap.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Data Structers C#\Heap\7.Sum of all nodes value in Max Heap\heap\obj\Debug\heap.exe
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Data Structers C#\Heap\7.Sum of all nodes value in Max Heap\heap\obj\Debug\heap.pdb

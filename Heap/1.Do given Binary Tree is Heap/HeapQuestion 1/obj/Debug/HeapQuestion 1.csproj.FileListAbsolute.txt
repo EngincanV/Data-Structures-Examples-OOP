@@ -1,0 +1,14 @@
+C:\Users\engin\source\repos\HeapQuestion 1\HeapQuestion 1\bin\Debug\HeapQuestion 1.exe.config
+C:\Users\engin\source\repos\HeapQuestion 1\HeapQuestion 1\bin\Debug\HeapQuestion 1.exe
+C:\Users\engin\source\repos\HeapQuestion 1\HeapQuestion 1\bin\Debug\HeapQuestion 1.pdb
+C:\Users\engin\source\repos\HeapQuestion 1\HeapQuestion 1\obj\Debug\HeapQuestion 1.csprojAssemblyReference.cache
+C:\Users\engin\source\repos\HeapQuestion 1\HeapQuestion 1\obj\Debug\HeapQuestion 1.csproj.CoreCompileInputs.cache
+C:\Users\engin\source\repos\HeapQuestion 1\HeapQuestion 1\obj\Debug\HeapQuestion 1.exe
+C:\Users\engin\source\repos\HeapQuestion 1\HeapQuestion 1\obj\Debug\HeapQuestion 1.pdb
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Heap Soruları\1.Verilen Binary Tree Heap mi\HeapQuestion 1\bin\Debug\HeapQuestion 1.exe.config
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Heap Soruları\1.Verilen Binary Tree Heap mi\HeapQuestion 1\bin\Debug\HeapQuestion 1.exe
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Heap Soruları\1.Verilen Binary Tree Heap mi\HeapQuestion 1\bin\Debug\HeapQuestion 1.pdb
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Heap Soruları\1.Verilen Binary Tree Heap mi\HeapQuestion 1\obj\Debug\HeapQuestion 1.csprojAssemblyReference.cache
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Heap Soruları\1.Verilen Binary Tree Heap mi\HeapQuestion 1\obj\Debug\HeapQuestion 1.csproj.CoreCompileInputs.cache
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Heap Soruları\1.Verilen Binary Tree Heap mi\HeapQuestion 1\obj\Debug\HeapQuestion 1.exe
+C:\Users\engin\OneDrive\Belgeler\Data Structers\Veri Yapıları Örnek Sorular ve Çözümleri\Heap Soruları\1.Verilen Binary Tree Heap mi\HeapQuestion 1\obj\Debug\HeapQuestion 1.pdb
